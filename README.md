@@ -5,7 +5,7 @@ A comprehensive implementation of Nginx covering reverse proxy, load balancing, 
 ## Server Details
 - **Instance ID:** `i-0343ddb105325e52f`
 - **Public IP:** `98.93.241.164`
-- **OS:** Amazon Linux
+- **OS:** Linux
 
 ---
 
