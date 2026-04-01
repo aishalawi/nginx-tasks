@@ -1,0 +1,18 @@
+
+# Sensitive files
+*.key
+*.pem
+*.crt
+.htpasswd
+.env
+# Logs
+*.log
+
+# SSL certificates
+ssl/
+*.crt
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
